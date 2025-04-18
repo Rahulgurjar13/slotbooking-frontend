@@ -77,12 +77,7 @@ const Home = () => {
               >
                 Sign In
               </a>
-              <a
-                href="/login"
-                className="px-5 py-2 bg-indigo-500 text-white rounded-lg text-sm font-medium hover:bg-indigo-600 transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-blue-600 shadow-sm"
-              >
-                Get Started
-              </a>
+              
             </div>
           </div>
           <div className="mt-6 md:mt-16 max-w-3xl mx-auto text-center">
